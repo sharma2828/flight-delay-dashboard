@@ -21,3 +21,7 @@ https://www.kaggle.com/datasets/mexwell/carrier-on-time-performance-dataset
 - Pandas
 - Dash
 - Plotly
+## How to Run
+```bash
+pip install -r requirements.txt
+python flight_delay_final.py
